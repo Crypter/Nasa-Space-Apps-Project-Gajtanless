@@ -1,0 +1,9 @@
+﻿This project is called Gajtanless. Its purpose is to help the astronauts move freely into space without getting tangled in cables and tethers. The working principle of this device is quite straight forward and self explanatory.
+
+It's a multipurpose tool, although the initial purpose of the device was to catch the objects that are out of reach, floating freely into the outter space. The astronaut gets audio-visual warning if some of his tools go out of his reach. Asisted by a laser grid, the astronaut can precisely send the probe to the object. The probe softly connects to the objects and automatically pulls it back to the astronaut. As a backup plan, if the astronaut is unable to react the spaceship will autonomously send one of its identical probes, precisely guided by cameras.
+
+A new feature, something that was never possible in space, is to send objects to the other astronauts at larger distances without wasting fuel to travel there.
+
+The probe has enough space for its main parts - an electomagnet and RF locator, and as well as other electronics such as cameras and digital sensors if needed.
+
+The project is made by Kristijan Gjoshev and Dimitar Dungevski
